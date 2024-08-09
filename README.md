@@ -10,7 +10,7 @@ This script allows you to decrypt stored passwords from Microsoft Edge. Follow t
 
    - Open PowerShell and type the following command:
      ```powershell
-     install python
+     python
      ```
    - This command should open the Microsoft Store, where you can proceed to install Python.
 
