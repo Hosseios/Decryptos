@@ -1,7 +1,7 @@
 # Decryptos
 
 ## Overview
-This script allows you to decrypt stored passwords from Microsoft Edge. Follow the instructions below to set up the environment and run the script.
+This script allows you to decrypt stored passwords from Browsers. Follow the instructions below to set up the environment and run the script.
 
 ## Prerequisites
 
